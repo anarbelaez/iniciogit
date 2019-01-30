@@ -1,0 +1,40 @@
+html{
+    background-color: firebrick;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border: 25px solid darkgray;
+  }
+
+  h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+a{
+    color: darkred;
+    font-weight: bold; 
+}
+a:hover {
+    color: red;
+ } /*Cuando el ratón está sobre él*/
+
+img {
+    display: block;
+    width: 350px; height: 350px;
+    margin: 0 auto;
+    border: 10px solid darkred;
+}
